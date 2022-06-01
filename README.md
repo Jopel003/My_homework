@@ -6,7 +6,7 @@
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
 [5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA) 
+[6. Выводы](https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA) 
 
 ### Описание проекта    
 Проект по созданию программы, которая угадывает загаданное компьютером число за минимальное количество попыток.
