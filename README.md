@@ -5,13 +5,13 @@
 [2. Какой кейс решаем?](https://github.com/Jopel003/My_homework/blob/main/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/Jopel003/My_homework/blob/main/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Jopel003/My_homework/blob/main/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Jopel003/My_homework/blob/main/README.md#Результат) 
+[5. Результат](https://github.com/Jopel003/My_homework/blob/main/README.md#Результат)  
 [6. Выводы](https://github.com/Jopel003/My_homework/blob/main/README.md#Выводы)     
 
 ### Описание проекта    
 Проект по созданию программы, которая угадывает загаданное компьютером число за минимальное количество попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/blob/main/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -52,7 +52,7 @@ count_attempt() - ничего не возвращает, но выводит н
 3. Создан репозиторий на GitHub.
 4. Подключена синхронизация с VS Code, файл с кодом размещен в репозитории
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/blob/main/README.md#Оглавление)
 
 
 ### Результаты:  
@@ -61,14 +61,14 @@ count_attempt() - ничего не возвращает, но выводит н
       - Максимальное количество попыток: 8;
       - Минимальное количество попыток: 1;
    2. Файл с кодом размещен в репозитории, открывается.
-   3. Страница репозитория оформлена в соответствии с примером.
+   3. Страница репозитария оформлена в соответствии с примером.
    4. Код несколько раз отчитан на соответствие стандарту PEP8.
    5. Воспроизводимость кода проверена в VS Code и Spider (Anaconda 3)
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/blob/main/README.md#Оглавление)
 
 
 ### Выводы:  
 Оказывается все возможно сделать, если захочешь.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/blob/main/README.md#Оглавление)
