@@ -49,4 +49,3 @@ def count_attempt(locking_number):
     print(f'Среднее число попыток {int(np.mean(count_lst))}') # Ожидаемо 6
     print(f'Максимальное количество попыток {max(count_lst)}') # Ожидаемо 8
     print(f'Минимальное количество попыток {min(count_lst)}') # Ожидаемо 1
-    
