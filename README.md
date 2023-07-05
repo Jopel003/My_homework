@@ -4,7 +4,7 @@
 [0. Ответ на задание "Угадай число"](https://github.com/Jopel003/My_homework/tree/main/0.%20Loocking%20for%20number)  
 [1. Ответ на задание "Анализ клиентов банка"](https://github.com/Jopel003/My_homework/tree/main/1.%20Churn%20for%20bank%20customers)  
 [2. Проект-1 "Анализ резюме из HeadHunter"](https://github.com/Jopel003/My_homework/tree/main/2.%20PROJECT-1)  
-[3. Проект-2 "Анализ вакансий из HeadHunter"](https://github.com/Jopel003/My_homework/tree/main/3.%20PROJECT-2_(SQL))
+[3. Проект-2 "Анализ вакансий из HeadHunter"](https://github.com/Jopel003/My_homework/tree/main/3.%20PROJECT-2_(SQL))  
 [4. Ответ на задание "Исследование данных HR-агенства"](https://github.com/Jopel003/My_homework/tree/main/4.%20EDA_4_HR_statistics)
 
 
